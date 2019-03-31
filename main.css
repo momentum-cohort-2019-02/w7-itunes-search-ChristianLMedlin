@@ -1,0 +1,16 @@
+.songParent{
+    display: inline-flex;
+    flex-wrap: wrap;
+}
+
+.songChild{
+    border: solid black;
+    display: flex;
+    height: 20rem;
+    width: 20rem;
+}
+
+.albumImage{
+    width: 100px;
+    height: 100px;
+}
